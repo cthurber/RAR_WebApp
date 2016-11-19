@@ -1,1 +1,3 @@
-== Drew Univerity Economic's Dept. Propietary Web App
+== Drew Univerity Economic's Dept. Propietary Web App -- DREW LAB
+
+DrewLab is a custom web application built for the Economics Department at Drew University. The research platform a platform consists of a series of games rooted in measuring risk aversion ranging from a balloon that fills with cash to a Deal or No Deal style game. DrewLab will live on at Drew to encourage further collaboration between Drew’s Economics and Computer Science students to create new games and expand the platform for years to come. Give it a try- Use PIN 1234 to access the app!
